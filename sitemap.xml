@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://taiga-ishii.com/categories/</loc>
+    <loc>https://taiga-ishii.github.io/taiga-ishii/post/talked_about_operation_at_jaws-ug/</loc>
+    <lastmod>2018-07-04T19:23:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taiga-ishii.github.io/taiga-ishii/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://taiga-ishii.com/tags/</loc>
+    <loc>https://taiga-ishii.github.io/taiga-ishii/post/</loc>
+    <lastmod>2018-07-04T19:23:05+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://taiga-ishii.com/</loc>
+    <loc>https://taiga-ishii.github.io/taiga-ishii/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taiga-ishii.github.io/taiga-ishii/</loc>
+    <lastmod>2018-07-04T19:23:05+09:00</lastmod>
     <priority>0</priority>
   </url>
   
